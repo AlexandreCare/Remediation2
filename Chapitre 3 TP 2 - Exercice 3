@@ -33,7 +33,7 @@ void conversion(char *line, char *resultat)
             maj ++;
         }
     }
-    resultat[i] = 0;    // Termine la chaîne résultat.
-    printf("text après modification:",maj);
+    resultat[i] = 0;    // Termine la chaÃ®ne rÃ©sultat.
+    printf("text aprÃ¨s modification:",maj);
 
 }
